@@ -25,9 +25,9 @@ I chose.
 ## Instructions
 Assumption:  Node.js v.14 is installed, with npm.
 
-2. In terminal:  `nvm use` (assuming you have nvm installed)
-3. In terminal:  `npm install`
-4. In terminal:  `node src/index.js`.  The script prompts the
+1. In terminal:  `nvm use` (assuming you have nvm installed)
+2. In terminal:  `npm install`
+3. In terminal:  `node src/index.js`.  The script prompts the
 user to type input before the final output data is shown.
 
 ## Purpose
@@ -60,4 +60,5 @@ in the [data](https://github.com/gregsandell/api-output-diffs/tree/master/data) 
 . 
 
 ## Stylistic Preferencess
+
 1. I prefer the 'no semicolons' approach favored by [Standard JS](https://standardjs.com).
