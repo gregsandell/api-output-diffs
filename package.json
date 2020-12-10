@@ -1,0 +1,23 @@
+{
+  "name": "api-output-diffs",
+  "version": "1.0.0",
+  "description": "Code challenge presented by lululemon - find difference between two API outputs",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-json": "^2.1.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Sandell",
+  "license": "ISC",
+  "dependencies": {
+    "wait-for-user-input": "^1.0.0"
+  }
+}
