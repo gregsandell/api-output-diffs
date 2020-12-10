@@ -52,10 +52,11 @@ The challenge instructions are:
  *
  */
 ```
+The code for the solution is at the public repo [gregsandell/api-output-diffs](https://github.com/gregsandell/api-output-diffs).
+
 The two data input files in the challenge are in this project 
-in the data directory
+in the [data](https://github.com/gregsandell/api-output-diffs/tree/master/data) directory.
 . 
-The code for the solution is at the public repo [gregsandell/api-output-diffs](https://github.com/gregsandell/world_populations).
 
 ## Stylistic Preferencess
 1. I prefer the 'no semicolons' approach favored by [Standard JS](https://standardjs.com).
