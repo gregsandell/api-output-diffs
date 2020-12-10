@@ -24,6 +24,7 @@ I chose.
 
 ## Instructions
 Assumption:  Node.js v.14 is installed, with npm.
+
 2. In terminal:  `nvm use` (assuming you have nvm installed)
 3. In terminal:  `npm install`
 4. In terminal:  `node src/index.js`.  The script prompts the
